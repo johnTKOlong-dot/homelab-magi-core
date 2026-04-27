@@ -1,3 +1,3 @@
-docs/overview.md
+MAGI Documentation Overview
 
 
